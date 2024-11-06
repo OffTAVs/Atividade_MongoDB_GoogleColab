@@ -1,2 +1,4 @@
 # Atividade_MongoDB_GoogleColab
 Atividade onde foi criada uma base de dados MongoDB que foi carregada com dados do GoogleBooks a partir de códigos em python pelo GoogleColab
+
+Este projeto tem como objetivo criar e estruturar uma base de dados utilizando o MongoDB, carregando informações obtidas por meio da API Google Books. Inicialmente, foram realizadas consultas à API para coletar dados relevantes, que em seguida foram armazenados em um arquivo .json. Posteriormente, esse arquivo foi importado para o MongoDB, permitindo a organização dos dados em uma base acessível e manipulável. Além disso, foram implementadas operações básicas de CRUD (Create, Read, Update e Delete) para gerenciar os registros na base de dados, aprimorando o controle e a flexibilidade na manipulação das informações coletadas.
